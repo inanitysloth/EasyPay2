@@ -23,6 +23,7 @@ public class Advertisement {
     private String bgcolor;
     private String endDate;
     private String startDate;
+    private String strTest;
 
     public String getId() {
         return id;
