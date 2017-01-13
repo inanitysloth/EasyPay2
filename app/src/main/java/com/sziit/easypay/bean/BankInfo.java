@@ -18,6 +18,7 @@ package com.sziit.easypay.bean;
 public class BankInfo {
     private String bankName;
     private String bankId;
+    private String strTest1;
 
     /**
      * @return the bankName
